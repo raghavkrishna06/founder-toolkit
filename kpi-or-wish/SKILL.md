@@ -33,7 +33,7 @@ Do not use it for a plain definition or factual question ("what is a KPI?", "wha
 - **One question at a time.** Wait for the answer before asking the next.
 - **Recommend an answer to each question**, based on what they have told you, so it is a proposal they can accept or push back on: "My guess is X, because Y. Tell me if that's off." Only recommend where you have something to go on. Never invent a figure.
 - **Answer from context before asking.** If their message, earlier goals or any document they shared already settles a check, state the answer and move on.
-- **Resolve in dependency order**: the outcome, then the type, definition, baseline, target, owner and source, and last the decision and review rhythm. Do not ask for a target before the definition holds.
+- **Resolve in dependency order**: the outcome first, then the decision the number will inform, then the type, definition, baseline, target, owner and source, and last the review rhythm. Ask one thing per turn, so never the outcome and the decision together, and skip either if the person's message already answers it. Do not ask for a definition before the decision is named, because the decision chooses between competing definitions. Do not ask for a target before the definition holds.
 - **Keep turns short**: the question, the recommendation, and at most a sentence of reason.
 - **Stop when the goal would come out Ready**, or when the person says it is enough. Show the finished goal in the output shape, then offer to turn it into a one-page sheet (measure, source, owner, review rhythm) they can share with the team. Offer it; do not build it unprompted.
 
@@ -45,7 +45,7 @@ A team steers by its numbers. A wish gives it nothing to steer by, so it gets qu
 
 Run the test on what they wrote. Answer from context wherever you can. Do not ask questions first unless you cannot tell what the goal is meant to achieve, and then ask only that one question. Quote their wording back when you score it, and never assume a baseline, owner or data source they did not mention.
 
-**Several goals.** Run every goal in full, however many there are. The person asked for feedback on the list, so do not skip, merge or summarise any of them. Every goal gets the same format, with the same amount of explanation, whether there are two goals or twenty.
+**Several goals.** Run every goal in full, however many there are. The person asked for feedback on the list, so do not skip, merge or summarise any of them. Every goal gets the same format, with the same amount of explanation, whether there are two goals or twenty. The one exception is a Ready goal, which uses the short form described under Output.
 - Open with a one-line tally that uses the same labels as the verdicts: Ready, Not yet, Wish, Objective, Initiative. List only the labels that occur, and check the counts add up to the number of goals. Example: "15 goals: 7 not yet, 2 wishes, 3 objectives, 3 initiatives."
 - Keep the person's order and numbering so they can match each entry to their list.
 - After the individual entries, add the Pattern line and a **Fix first** note naming the few goals that would most change what the team does next week. This is a prioritisation note, not a substitute for the individual feedback.
@@ -54,12 +54,15 @@ Run the test on what they wrote. Answer from context wherever you can. Do not as
 - If the period has started, the baseline is progress to date. Ask for it, and treat early check-ins that have already passed as gone.
 - If the period has ended, say so. Ask what was achieved and whether the goal is being reviewed or reset.
 - If the deadline is close, say how many weeks remain, because a target that cannot be reached by then needs a decision, not a better definition.
+- Do not assume start or end dates the goal does not give. "End of grant", "next quarter" and "this year" are not dates. Ask for the dates before saying how much time has passed or remains, and do not claim that a period has started or ended unless the goal or the person says so.
 
-## Step 0: find the outcome behind the goal
+## Step 0: find the outcome and the decision behind the goal
 
 Before anything else, restate in one plain sentence what would be different if the goal were hit, in the founder's own terms (less firefighting, more girls finishing school, faster grant cycles). Goals are usually written as means. The outcome is what the person actually wants, and the rewrite has to serve it, not just tidy the wording.
 
-If you cannot state the outcome, say so. A goal with no stated purpose is missing its first piece.
+Then name the decision the number is meant to inform: what someone will choose, fund, stop or change depending on what it shows. The decision comes before the definition because it settles the definition. "Raise $500K" can mean pledges, signed grants or cash in the bank, and each of those informs a different decision (where to push the pipeline, what the programme can commit to, whether the next hire can be paid). A team that has not named the decision cannot say which count is right.
+
+If you cannot state the outcome or the decision, say so. A goal with no stated purpose is missing its first piece. In review mode, do not stop to ask: note the gap and, where the definition is ambiguous because of it, make it the one question. In coach mode, ask it first.
 
 ## Step 1: say what kind of thing it is
 
@@ -76,24 +79,30 @@ To decide between them, work down this order and stop at the first that fits:
 3. Is it ongoing with no end date? It is a **KPI**. Does it have a value and a date? It is a **key result**.
 4. Is it written as a finished result, but the definition fails ("drastically increase", "improve efficiency"), or is it far beyond what the organisation could deliver in the period ("eradicate poverty in our metro area by Q4")? It is a **Wish**.
 
-If the wording is ambiguous, say how you read it and why, and go on. "Improve efficiency this year" is a key result sitting on a KPI that has not been defined yet. A KPI written with a deadline ("keep response time under 2 days by December") is really a key result on a KPI, and it is worth saying so. A ceiling on something that repeats ("finish every grant cycle within 180 days") is a KPI. The same sentence about one named cycle is a key result.
+A comparative aspiration ("the leading provider", "best in class", "number one") with no named field, measure or comparison group is a **Wish**. The same intent written as a direction ("become a more trusted provider for [named group]") is an **Objective**. Go by the wording in front of you.
+
+When the goal could be either a KPI or a key result, do not choose silently. This happens most with a number and no date that is not clearly ongoing ("run 20 workshops", "reach 50 schools"), and with a count per period ("send 4 newsletters a quarter"), which could be a standing floor or a one-off target. In a list, put the question in that goal's own entry. Say which reading you took and why, review on that reading, and make "Do you want to track this continuously, or reach it by a date?" the one question, with your guess as the recommended answer. In coach mode, ask it before anything else. If the type would not change the verdict or the rewrite, just say how you read it and go on. Do not ask when the wording already settles it: a ceiling on something that repeats is a KPI, and a value with a date is a key result.
+
+If other wording is ambiguous, say how you read it and why, and go on. "Improve efficiency this year" is a key result sitting on a KPI that has not been defined yet. A KPI written with a deadline ("keep response time under 2 days by December") is really a key result on a KPI, and it is worth saying so. A ceiling on something that repeats ("finish every grant cycle within 180 days") is a KPI. The same sentence about one named cycle is a key result.
 
 ## Step 2: the seven checks
 
 Score each as Pass, Partial or Missing. Checks 3 and 7 take a different form for a KPI and a key result; the others are the same.
 
-1. **Definition.** Two people measuring it independently would get the same number. Words that usually fail on their own: efficiency, impact, engagement, alignment, quality, ownership, culture, capacity. For rates and ratios, check that the denominator is defined too. Check these as well:
+1. **Definition.** Two people measuring it independently would get the same number. Words that usually fail on their own: efficiency, impact, engagement, alignment, quality, ownership, culture, capacity. Score the check Missing when the key word has no usable meaning on its own. When the goal names a recognised measure but leaves its details open (retention, turnover, satisfaction, NPS), score it Partial and list the open details, such as the formula, population and period. For rates and ratios, check that the denominator is defined too. Check these as well:
    - *Population:* who or what is counted, and over what period. "Our customers" is not a survey population.
    - *Endpoints:* for anything measured from one event to another (launch to award), each end needs a named event. "Award" could mean the decision, the signed agreement or the money moving, and these can be weeks apart. Fix calendar versus working days too.
-   - *Counting rule:* for money, say what counts (signed, received, committed), the currency, and whether restricted funds are included.
+   - *Counting rule:* for money, say what counts (pledged, signed, received), the currency, and whether restricted funds are included. Which rule is right depends on the decision the number informs (step 0), so tie the choice to that decision instead of picking one in the abstract.
    - *Unit and scale:* if the goal uses a standard metric (NPS, retention, churn, cost per acquisition), check it is written in that metric's own unit. NPS is a score from -100 to 100, not a percentage. Say so plainly, and fix it in the rewrite.
+   - *Period:* for any quarter, half or year, say whether it is the fiscal or the calendar one, and give the start and end dates. "Q3" or "by year end" can mean different months to different people.
+   - *Unique or total:* for any count of people, say whether it is unique individuals or total contacts or visits. "Reach 10,000 beneficiaries" can be met by 10,000 people or by 2,000 people counted five times.
 2. **Baseline.** The current value is known, or the person has said plainly it is unknown and how they will find out. An unknown baseline is not a fail by itself; it makes the target provisional. Verbs like "maintain", "keep" and "sustain" imply a baseline without stating it, so ask for the current value. If the stated level looks far above what is typical for that metric, ask for the current value before accepting "maintain". Do not quote specific benchmarks unless you are sure of them.
 3. **Target.**
    - *Key result:* a value to reach and a date, or a clear done/not-done state with "done" defined.
    - *KPI:* a healthy range or a threshold that says when to act. Do not ask for an end date.
 4. **Source.** The number comes from work the team already does, such as a tool already in use or records already kept, not from a new reporting task. Numbers that need extra reporting tend to stop being reported within a quarter, and this bites hardest on field staff and small teams.
 5. **Owner.** One named person who can act on the number: reprioritise, change the process, spend in that area. A team, a function or "everyone" fails. So does a person who is accountable for the number but cannot change what drives it. For a measure that spans several stages or people (a cycle that runs from launch through review to award), the owner needs authority across all of them, not just one stage.
-6. **Decision.** The person can name one concrete thing that would change if the number is off track. If nothing would change, it is a report line, not a KPI.
+6. **Decision.** The person can name one concrete thing that would change if the number is off track, and the decision it informs (step 0). If nothing would change, it is a report line, not a KPI. Also check that the definition in check 1 serves that decision: a number that is well defined but answers a different question than the one being decided is a Partial.
 7. **Review rhythm.**
    - *Key result:* at least one check-in date before the deadline, and a date for the final call.
    - *KPI:* how often it is measured, how often someone looks at it, and who is in the room. Without this, even a correct number sits unacted on.
@@ -103,9 +112,9 @@ Score each as Pass, Partial or Missing. Checks 3 and 7 take a different form for
 
 Give each goal exactly one verdict. If a goal fits two, pick the one that tells the person what to do next, and mention the other as a note inside the explanation. The tally and the Pattern line must use these same labels.
 
-- **Wish**: written as a finished result, but check 1 is Missing, or the scale is beyond what the organisation could deliver in the period. It cannot be measured, or reached, as written. A wish is not a direction: if the person is plainly stating a direction, it is an Objective.
-- **Not yet** a KPI (or key result): the definition holds, but one or more of checks 2 to 7 are Missing. Name the type: "Not yet a key result".
-- **Ready** as a KPI (or key result): checks 1 to 6 pass and check 7 is at least Partial.
+- **Wish**: written as a finished result, but check 1 is Missing (the key word has no usable meaning on its own), or the scale is beyond what the organisation could deliver in the period. It cannot be measured, or reached, as written. A wish is not a direction: if the person is plainly stating a direction, it is an Objective. A goal that names a recognised measure but leaves its details open ("improve donor retention", "keep staff turnover under 12%", "90% satisfaction") is not a wish: it is Not yet, with those details listed.
+- **Not yet** a KPI (or key result): the key word has a usable meaning, but one or more of checks 2 to 7 are Missing, or a Partial would change the number someone reports. Name the type: "Not yet a key result".
+- **Ready** as a KPI (or key result): no check is Missing, and every Partial is a detail the person could settle in one sentence without changing the number someone would report (which report the figure is pulled from, who chairs the review). Name each Partial. If a Partial could change the number, such as calendar versus working days, mean versus median, or which month a result is counted in, the verdict is Not yet.
 - **Objective**: never a Wish for lacking a number. Say whether it has key results beneath it, and offer one or two candidate key results or proxies.
 - **Initiative**: say it is work, not a measure, and ask what it is meant to change.
 
@@ -113,7 +122,11 @@ Also watch for **activity standing in for outcome**: key results that count thin
 
 ## Output
 
-Lead with the answer. No preamble. Each analysis explains its reasoning, not just the label, and every goal gets the same format.
+Lead with the answer. No preamble. Each analysis explains its reasoning, not just the label, and every goal with the same verdict gets the same format.
+
+**If the verdict is Ready,** skip What's missing and the rewrite. In two or three sentences, say that it passes, quote the goal, name what makes it strong, and note any check that scored Partial with the one thing that would close it. Offer a tightened rewrite only if a Partial would change the wording. Ask a one question only if a Partial remains. Do not invent gaps to fill the template.
+
+For every other verdict, use the format below.
 
 **Verdict:** the label on one line, with the goal quoted and the type you read it as. Follow with two or three sentences: what is sound in the goal (the intent, or the part that is already measurable), what makes it fail, and what would go wrong in practice if it were left as written (for example, "next December nobody could say whether it moved").
 
@@ -135,7 +148,7 @@ Owner: [name]. Source: [existing tool or record].
 Check-ins: [dates]. Why: [outcome].
 ```
 
-**One question:** the single question whose answer would unlock the most, usually about the definition or the baseline. Where the goal and context give you something to go on, add your recommended answer, so the person can confirm it or correct it: "My guess is X. Tell me if that's off." Do not guess when you have nothing to base it on.
+**One question:** the single question whose answer would unlock the most. When the definition is ambiguous because the goal never says what it will be used to decide, ask for the decision first. When the goal could be a KPI or a key result and the type changes the rewrite, ask what they intend (tracked continuously, or reached by a date). Otherwise it is usually about the definition or the baseline. Where the goal and context give you something to go on, add your recommended answer, so the person can confirm it or correct it: "My guess is X. Tell me if that's off." Do not guess when you have nothing to base it on.
 
 Once per conversation, after the last goal, close with one sentence they can reuse on any goal: "If two of us measured this independently next month, would we get the same number?" The aim is that they can run the test themselves next time. If gaps remain, follow it with the coach-mode offer from above.
 
@@ -148,8 +161,9 @@ After the individual results, add a **Pattern** line if the gaps cluster. Descri
 - Sources missing: the numbers are not visible without someone going to ask for them.
 - Decisions and review rhythms missing: goals get set and then nothing happens.
 - Types mixed up: ongoing measures written like one-off targets, or work written as targets. The team has not separated what it watches from what it is pushing on.
-- Counting rules hidden: terms like "raised" or "award" that mean different things to different people.
+- Counting rules hidden: terms like "raised" or "award" that mean different things to different people. This usually means the decision each goal serves was never named, so ask each owner to name it before settling the definition.
 - Activity standing in for outcome: several goals count what was done, not what changed.
+- Periods unstated: deadlines like "end of grant", "next quarter" or "by year end" with no start and end dates, so the team may be working to different calendars. Ask for dates and for fiscal or calendar.
 
 Stop at the pattern. Do not speculate about why it happened or what it says about the person.
 
@@ -261,6 +275,27 @@ Check-ins: [dates]. Why: [the change in those households' lives].
 ```
 
 **One question:** Which measure would you accept as "out of poverty": income, housing stability or food security?
+
+---
+
+**Input:** "Raise $500K this year."
+
+**Verdict:** Not yet a key result. It has a number and a period, and fundraising is a goal worth tracking. But "raise" can mean pledged, committed in signed grants, or cash available to spend, and these are different numbers that can sit months apart. They also serve different decisions: pledges inform where to push the pipeline, signed grants inform what the programme can commit to, and cash received informs whether the next hire can be paid. The goal does not say which decision it serves, so nobody can say which count is right.
+
+**What's missing:**
+- Decision: which decision is this number meant to inform? Everything below depends on it.
+- Counting rule: pledged, signed or received; restricted or unrestricted; currency.
+- Baseline: how much has been raised so far this year, counted the same way.
+- Owner: one person who can change the fundraising plan if the number falls behind.
+
+**Rewrite:**
+```
+Raise [$500K, currency; pledged / signed / received, chosen to match the decision; restricted and unrestricted shown separately] from [baseline] by [date].
+Owner: [name]. Source: [CRM or finance records already kept].
+Check-ins: [dates]. Why: [the decision this number informs, e.g. whether the next hire can be paid].
+```
+
+**One question:** Which decision should this number inform: when you can make the next hire, how much programme work you can commit to, or how hard to push the pipeline?
 
 ---
 
