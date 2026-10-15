@@ -66,6 +66,16 @@ For the latest, surface-specific steps, see Anthropic's Agent Skills documentati
 
 ---
 
+## Using it on other tools (Gemini, ChatGPT, Codex, etc.)
+ 
+The Coach is plain-text instructions, so it works on any capable model — only the auto-trigger and the on-demand loading of the module files are specific to Claude.
+ 
+- **Agents with file access** (Codex, Gemini CLI, Cursor, and the like): point them at this folder. The "read `references/…`" instructions work because the agent can open the files itself.
+- **Plain chat** (the Gemini or ChatGPT app, without a project): these can't open the reference files mid-conversation. Use **`root-cause-coach-combined.md`** — the whole Coach flattened into one file — and paste it in as the system prompt / custom instructions, or upload it to a Project, Gem or custom GPT.
+On any tool other than Claude you activate it yourself (paste it in or set it as instructions); it won't trigger on its own, and the calendar step only works where the tool has a calendar connected.
+
+---
+
 ## How it was built and tested
 
 The Coach was written from one operator's experience of what small-organisation founders actually get stuck on, then stress-tested in simulation: founders of different temperaments (terse, rambling, defensive, sceptical, overwhelmed), and a round of deliberately adversarial founders written to break it — people who agree without thinking, give self-serving accounts, drift, or present an in-scope decision that is really masking something the Coach shouldn't touch. A separate, independent agent scored the transcripts. Those tests drove real fixes: it now notices when you're only agreeing and hands the thinking back, and it names when a decision is really about something outside its scope instead of coaching the surface of it.
