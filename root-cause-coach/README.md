@@ -41,29 +41,23 @@ This is the part most tools leave out. The Coach is honest about its edges, on p
 ---
 
 ## Install
-
-The Coach is a Claude Skill: the `root-cause-coach/` folder here, with `SKILL.md` and a `references/` folder. Get the files by cloning this repo (or downloading it with the green **Code → Download ZIP** button):
-
-```bash
-git clone https://github.com/raghavkrishna06/founder-toolkit.git
-```
-
-### In Claude Code
-Copy the folder into your skills directory so you have `~/.claude/skills/root-cause-coach/SKILL.md`:
-
-```bash
-cp -r founder-toolkit/root-cause-coach ~/.claude/skills/
-```
-
-Use `.claude/skills/` inside a project instead if you want it only there. Claude discovers it automatically — no restart needed.
-
+ 
+The Coach is a Claude Skill. This folder holds the source (`SKILL.md` and the `references/` folder) and a packaged **`root-cause-coach.skill`** — a single zip you can install directly. To use the Coach you only need that one file; there's no need to download the whole repo. On its page in GitHub, use the download button ("Download raw file") to grab just it.
+ 
 ### On Claude.ai (Pro, Max, Team or Enterprise)
-Claude.ai takes a zipped skill folder:
-1. Zip the folder: `cd founder-toolkit && zip -r root-cause-coach.zip root-cause-coach`
-2. In Claude, go to **Settings → Features** and upload `root-cause-coach.zip`.
+1. Download `root-cause-coach.skill` from this folder and rename it to `root-cause-coach.zip`.
+2. In Claude, go to **Settings → Features** and upload the zip.
 3. Make sure **code execution** is enabled — custom Skills need it.
-
 Custom Skills are per-user: each person uploads their own copy.
+ 
+### In Claude Code
+Unzip it into your skills folder so you have `~/.claude/skills/root-cause-coach/SKILL.md`:
+ 
+```bash
+unzip root-cause-coach.skill -d ~/.claude/skills/
+```
+ 
+Use `.claude/skills/` inside a project instead if you want it only there. Claude discovers it automatically — no restart needed.
 
 ### Using it
 You don't have to name the skill. Just describe where you're stuck — "I don't know whether to shut this down", "is this KPI any good", "everything comes to me" — and the Coach takes it from there.
