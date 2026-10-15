@@ -1,6 +1,6 @@
 # Is This a KPI or a Wish?
 
-A free Claude Skill that checks a goal, KPI, OKR or target and tells you — plainly — whether it's something you can actually measure, or a wish dressed up as a target. If it's not there yet, it shows you exactly what's missing and hands back a version you can use.
+A free Skill that checks a goal, KPI, OKR or target and tells you — plainly — whether it's something you can actually measure, or a wish dressed up as a target. If it's not there yet, it shows you exactly what's missing and hands back a version you can use.
 
 "Improve the efficiency of our operations" reads like a target right up until someone tries to measure it. Most goals start life that way. This skill catches that before it reaches a board pack or a funder report.
 
@@ -51,8 +51,4 @@ You don't have to name the skill. Just paste a goal and ask "is this any good?",
 
 ## Author
 
-Built by Raghav Krishna. I write about running small organisations well at *The Monday Manager* — [add your link].
-
-## Licence
-
-Free to use and adapt. [Choose a licence — MIT is a reasonable default for open reuse.]
+Built by Raghav Krishna. I help social impact startup founders stop firefighting and grow their impact - https://www.raghavkrishna.com/
