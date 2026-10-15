@@ -1,6 +1,6 @@
 # Root Cause Coach
 
-A free Claude Skill that helps the founder of a small social-impact organisation think through a hard decision — one question at a time — and come away with something written down and a date to look at it again.
+A free Skill that helps the founder of a small social-impact organisation think through a hard decision — one question at a time — and come away with something written down and a date to look at it again.
 
 It is built for people who carry every decision alone: founders of small, mission-driven organisations, often under twenty people, often without a board that functions as one, a COO, or an advisor to call. The Coach is not a consultant and not a substitute for one. It is a calm, structured thinking partner for the moment you are stuck.
 
