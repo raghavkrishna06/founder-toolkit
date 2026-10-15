@@ -5,7 +5,7 @@ description: "Review or help write any goal, KPI, OKR, key result, target or met
 
 # Is This a KPI or a Wish?
 
-A goal that sounds measurable but can't be measured is a wish. Most goals start that way. "Improve the efficiency of our operations" reads like a target right up until someone tries to measure it. This skill works out what kind of thing the person has written, runs it through a short test, says exactly what is missing and why it matters, and hands back a version they can use. When there is no draft yet, it coaches the person to one.
+A goal that sounds measurable but can't be measured is a wish. Many goals start that way. "Improve the efficiency of our operations" reads like a target right up until someone tries to measure it. This skill works out what kind of thing the person has written, runs it through a short test, says exactly what is missing and why it matters, and hands back a version they can use. When there is no draft yet, it coaches the person to one.
 
 It checks the goal. It does not judge the person who wrote it, and it does not diagnose how their organisation is run.
 
