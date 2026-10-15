@@ -70,7 +70,7 @@ For the latest, surface-specific steps, see Anthropic's Agent Skills documentati
 
 The Coach was written from one operator's experience of what small-organisation founders actually get stuck on, then stress-tested in simulation: founders of different temperaments (terse, rambling, defensive, sceptical, overwhelmed), and a round of deliberately adversarial founders written to break it — people who agree without thinking, give self-serving accounts, drift, or present an in-scope decision that is really masking something the Coach shouldn't touch. A separate, independent agent scored the transcripts. Those tests drove real fixes: it now notices when you're only agreeing and hands the thinking back, and it names when a decision is really about something outside its scope instead of coaching the surface of it.
 
-Honest caveat: every test so far used simulated founders, who are more cooperative than real ones. The Coach has not yet been proven with real founders in real decisions. If you use it, telling me where it helped and where it fell short is the most valuable thing you can do.
+If you use it, telling me where it helped and where it fell short is the most valuable thing you can do.
 
 ## Feedback and contributions
 
@@ -78,8 +78,4 @@ This is a free tool meant to be useful on its own. Issues and pull requests are 
 
 ## Author
 
-Built by Raghav Krishna. I write about running small organisations well at *The Monday Manager* — [add your link].
-
-## Licence
-
-Free to use and adapt. [Choose a licence — MIT is a reasonable default for open reuse.]
+Built by Raghav Krishna. I help social impact founders stop firefighting and start growing their impact — https://www.raghavkrishna.com/
