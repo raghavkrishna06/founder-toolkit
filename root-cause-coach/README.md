@@ -89,3 +89,7 @@ This is a free tool meant to be useful on its own. Issues and pull requests are 
 ## Author
 
 Built by Raghav Krishna. I help social impact founders stop firefighting and start growing their impact — https://www.raghavkrishna.com/
+
+## Licence
+ 
+MIT — see the [LICENSE](../LICENSE) at the repo root.
