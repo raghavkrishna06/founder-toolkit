@@ -52,3 +52,7 @@ You don't have to name the skill. Just paste a goal and ask "is this any good?",
 ## Author
 
 Built by Raghav Krishna. I help social impact startup founders stop firefighting and grow their impact - https://www.raghavkrishna.com/
+
+## Licence
+ 
+MIT — see the [LICENSE](../LICENSE) at the repo root.
