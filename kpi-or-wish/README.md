@@ -28,7 +28,7 @@ This is a single-file skill — just the `SKILL.md` in this folder, nothing else
 
 ### On Claude.ai (Pro, Max, Team or Enterprise)
 1. Download this `kpi-or-wish` folder and zip it (the zip should contain the folder with `SKILL.md` inside).
-2. In Claude, go to **Settings → Features** and upload the zip.
+2. In Claude, go to Customize → Skills and upload the zip.
 3. Make sure **code execution** is enabled — custom Skills need it.
 
 ### In Claude Code
