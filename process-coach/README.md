@@ -87,7 +87,7 @@ The Coach was written from one operator's experience of mapping how the processe
 
 Those tests drove real changes. The Coach now holds the goal before it draws anything; it renders the process as a proper horizontal swimlane with the handoffs drawn in, so the breaks between people are visible rather than buried; the map it hands you at the end keeps every parked problem on it, not a cleaned-up version; it extracts the fix from you rather than handing you one; and it proposes the check-back date for you to confirm or change rather than setting it for you.
 
-Honest caveat: simulated founders are more cooperative than real ones, and my own real runs are still only mine. It hasn't yet been proven with other founders on their own processes. If you use it, telling me where it helped and where it fell short is the most valuable thing you can do.
+Honest caveat: simulated founders can sometimes be more cooperative than real ones, and my own real runs are still only mine. If you use it, telling me where it helped and where it fell short is the most valuable thing you can do.
 
 ## Feedback and contributions
 
