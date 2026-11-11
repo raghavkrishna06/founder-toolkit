@@ -46,7 +46,7 @@ The Coach is a Claude Skill. This folder holds the source (`SKILL.md` and the `r
  
 ### On Claude.ai (Pro, Max, Team or Enterprise)
 1. Download `root-cause-coach.skill` from this folder and rename it to `root-cause-coach.zip`.
-2. In Claude, go to **Settings → Features** and upload the zip.
+2. In Claude, go to Customize → Skills and upload the zip.
 3. Make sure **code execution** is enabled — custom Skills need it.
 Custom Skills are per-user: each person uploads their own copy.
  
